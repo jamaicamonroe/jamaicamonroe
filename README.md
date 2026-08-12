@@ -34,7 +34,7 @@ HashiCorp Terraform Associate · Security+
 
 ---
 
-📍 New Jersey · Open to contract work 
+📍 New Jersey ·
 <!--
 **jamaicamonroe/jamaicamonroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
